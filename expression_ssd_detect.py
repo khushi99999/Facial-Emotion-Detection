@@ -1,9 +1,3 @@
-"""
-Emotion Detection:
-Model from: https://github.com/onnx/models/blob/main/vision/body_analysis/emotion_ferplus/model/emotion-ferplus-8.onnx
-Model name: emotion-ferplus-8.onnx
-"""
-
 import cv2 
 import numpy as np
 import time
